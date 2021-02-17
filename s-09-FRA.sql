@@ -18,3 +18,4 @@ prompt Modificando periodo de retencion
 alter system set db_flashback_retention_target=Valor scope=both;
 
 prompt Realizando mi primer cambio 
+Prompt Segundo cambio 
