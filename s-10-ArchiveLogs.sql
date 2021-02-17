@@ -28,3 +28,5 @@ alter database mount;
 prompt Ejecutando instruccion archivelog;
 
 alter database archivelog;
+
+Prompt Cambio
