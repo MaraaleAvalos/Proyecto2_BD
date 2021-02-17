@@ -16,3 +16,6 @@ alter system set db_recovery_file_dest='/u01/app/oracle/oradata/AGAV/disk1' scop
 prompt Modificando periodo de retencion
 
 alter system set db_flashback_retention_target=Valor scope=both;
+
+prompt Realizando mi primer cambio 
+Prompt Segundo cambio 
